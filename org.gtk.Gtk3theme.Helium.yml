@@ -15,7 +15,7 @@ modules:
     buildsystem: meson
     config-opts:
       - "-Ddark=false"
-      - "-Dgtk4=false"
+      - "-Dgtk4=true"
       - "-Dshell=false"
     cleanup:
       - "gtk-dark.css"
