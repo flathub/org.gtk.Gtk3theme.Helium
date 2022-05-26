@@ -1,4 +1,4 @@
-id: org.gtk.Gtk3theme.Helium-dark
+id: org.gtk.Gtk3theme.Helium
 branch: "3.22"
 runtime: org.freedesktop.Platform
 runtime-version: "21.08"
